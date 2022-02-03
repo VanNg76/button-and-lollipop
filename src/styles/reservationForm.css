@@ -1,0 +1,44 @@
+#reserveButton {
+    margin: 1rem 0 2rem 11rem;
+    padding: 0.5rem;
+    background-color: rgb(227, 72, 72);
+    color: lightgoldenrodyellow;
+    font-size: 1.2rem;
+}
+
+.field {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 500px;
+    padding: 5px;
+}
+
+label {
+    display: inline-block;
+    clear: left;
+    width: 150px;
+    text-align: right;
+    padding: 10px;
+}
+
+input {
+    width: 250px;
+    display: inline-block;
+}
+
+.reservation{
+    display:inline-block;
+    width: 350px;
+}
+
+.deleteButton {
+    display:inline-block;
+    width: 100px;
+    margin: 5px 20px 5px 20px;
+}
+
+.clowns {
+    display: inline-block;
+    width: 100px;
+}

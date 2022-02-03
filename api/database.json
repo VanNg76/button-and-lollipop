@@ -1,0 +1,42 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "clownName": "Button"
+    },
+    {
+      "id": 2,
+      "clownName": "Lollipop"
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "Tom",
+      "childName": "Jerry",
+      "numOfChild": "5",
+      "address": "Walt",
+      "dateOfReservation": "2022-02-10",
+      "numOfHour": "2",
+      "id": 8
+    },
+    {
+      "parentName": "Henry",
+      "childName": "Tom",
+      "numOfChild": "7",
+      "address": "Madison",
+      "dateOfReservation": "2022-02-24",
+      "numOfHour": "1",
+      "id": 12
+    },
+    {
+      "parentName": "Van",
+      "childName": "Nguyen",
+      "numOfChild": "12",
+      "address": "West Virginia",
+      "dateOfReservation": "2022-04-01",
+      "numOfHour": "2",
+      "id": 14
+    }
+  ],
+  "completions": []
+}
